@@ -6,7 +6,12 @@
         font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
         margin: auto;
         position: relative;
-        width: 960px;
+        width: 1920px;
+    }
+
+    .background {
+        fill: none;
+        pointer-events: all;
     }
 
     form {
@@ -24,14 +29,54 @@
         text-indent: 2px;
     }
 
+    #tooltip {
+        position: absolute;
+        width: 220px;
+        height: auto;
+        padding: 10px;
+        background-color: white;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        border-radius: 10px;
+        -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+        -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+        box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+        pointer-events: none;
+    }
+
+    #tooltip.hidden {
+        display: none;
+    }
+
+    #tooltip p {
+        margin: 0;
+        font-family: sans-serif;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .on-mouse {
+        fill-opacity: 0.4;
+        stroke-width: 1;
+        stroke: #827717;
+        fill: green !important;
+    }
+
+    .off-mouse {
+        fill-opacity: 1.0;
+        stroke: black;
+        stroke-width: 0.1;
+    }
+
 </style>
 <body>
-<div id="tooltip" class="hidden"></div>
-<div id="nikkei-tree-map"></div>
-<form>
-    <label><input type="radio" name="mode" value="volume" checked> Size</label>
-    <!--<label><input type="radio" name="mode" value="count"> Count</label>-->
-</form>
+
+    <div id="nikkei-tree-map"></div>
+    <div id="tooltip" class="hidden"></div>
+    <!--<form>-->
+        <!--<label><input type="radio" name="mode" value="volume" checked> Size</label>-->
+    <!--&lt;!&ndash;<label><input type="radio" name="mode" value="count"> Count</label>&ndash;&gt;-->
+    <!--</form>-->
 </body>
 <script src="//d3js.org/d3.v3.min.js"></script>
 <script>
@@ -42,9 +87,24 @@
 
     var color = d3.scale.category20c();
 
-    var onMouseOver = function(d){
-       var xy = d3.mouse(document.getElementById('nikkei-tree-map'));
-        console.log(xy);
+    var stats = d3.map();
+
+    var onMouseMove = function(d){
+//       var xy = d3.mouse(document.getElementById('nikkei-tree-map'));
+//        console.log(xy);
+
+        var xPos = d3.event.pageX + 5;
+        var yPos = d3.event.pageY + 5;
+        console.log([xPos, yPos]);
+
+        d3.select('#tooltip')
+                .style('left', xPos + 'px')
+                .style('top', yPos + 'px')
+                .classed('hidden', false)
+                .html("<li>" + d.code + "</li>" + "<li>" + d.cName + "</li>");
+
+        d3.select(this)
+                .classed('on-mouse', true)
     }
 
     var onMouseOut = function () {
@@ -69,8 +129,20 @@
             .style("left", margin.left + "px")
             .style("top", margin.top + "px");
 
-    d3.json("data.json", function (error, root) {
+//    var m_width = $('#nikkei-tree-map').width()
+//    var map = d3.select("#nikkei-tree-map")
+//            .append("div")
+//            .attr('preserveAspectRatio', 'xMidYMid')
+//            .attr('viewBox', '0 0 ' + width + ' ' + height)
+//            .attr('width', m_width)
+//            .attr('height', m_width * height/width)
+
+
+    d3.json("data2.json", function (error, root) {
         if (error) throw error;
+
+
+
 
         var node = map.datum(root).selectAll(".node")
                 .data(treemap.nodes)
@@ -82,9 +154,10 @@
                 })
                 .text(function (d) {
                     console.log(d)
+                    stats.set(d.code, [d.cName, d.volume]);
                     return d.children ? null : d.code;
                 })
-                .on('mouseover', onMouseOver)
+                .on('mousemove', onMouseMove)
                 .on('mouseout', onMouseOut);
 
 //        d3.selectAll("input").on("change", function change() {

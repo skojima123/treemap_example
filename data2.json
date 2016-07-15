@@ -1,0 +1,1234 @@
+{
+  "name" : "data",
+  "children" : [ {
+    "name" : "陸運",
+    "children" : [ {
+      "volume" : 1095000,
+      "marketCap" : null,
+      "code" : "9062",
+      "cName" : "日通"
+    }, {
+      "volume" : 577100,
+      "marketCap" : null,
+      "code" : "9064",
+      "cName" : "ヤマトＨＤ"
+    } ]
+  }, {
+    "name" : "その他製造",
+    "children" : [ {
+      "volume" : 1020000,
+      "marketCap" : null,
+      "code" : "7911",
+      "cName" : "凸版"
+    }, {
+      "volume" : 1482000,
+      "marketCap" : null,
+      "code" : "7912",
+      "cName" : "大日印"
+    }, {
+      "volume" : 514000,
+      "marketCap" : null,
+      "code" : "7951",
+      "cName" : "ヤマハ"
+    } ]
+  }, {
+    "name" : "海運",
+    "children" : [ {
+      "volume" : 8280000,
+      "marketCap" : null,
+      "code" : "9101",
+      "cName" : "郵船"
+    }, {
+      "volume" : 5821000,
+      "marketCap" : null,
+      "code" : "9104",
+      "cName" : "商船三井"
+    }, {
+      "volume" : 2782000,
+      "marketCap" : null,
+      "code" : "9107",
+      "cName" : "川崎汽"
+    } ]
+  }, {
+    "name" : "化学",
+    "children" : [ {
+      "volume" : 741900,
+      "marketCap" : null,
+      "code" : "3405",
+      "cName" : "クラレ"
+    }, {
+      "volume" : 2759000,
+      "marketCap" : null,
+      "code" : "3407",
+      "cName" : "旭化成"
+    }, {
+      "volume" : 533800,
+      "marketCap" : null,
+      "code" : "4004",
+      "cName" : "昭電工"
+    }, {
+      "volume" : 5099000,
+      "marketCap" : null,
+      "code" : "4005",
+      "cName" : "住友化"
+    }, {
+      "volume" : 321900,
+      "marketCap" : null,
+      "code" : "4021",
+      "cName" : "日産化"
+    }, {
+      "volume" : 426000,
+      "marketCap" : null,
+      "code" : "4041",
+      "cName" : "日曹達"
+    }, {
+      "volume" : 3326000,
+      "marketCap" : null,
+      "code" : "4042",
+      "cName" : "東ソー"
+    }, {
+      "volume" : 1750000,
+      "marketCap" : null,
+      "code" : "4043",
+      "cName" : "トクヤマ"
+    }, {
+      "volume" : 1162000,
+      "marketCap" : null,
+      "code" : "4061",
+      "cName" : "デンカ"
+    }, {
+      "volume" : 651500,
+      "marketCap" : null,
+      "code" : "4063",
+      "cName" : "信越化"
+    }, {
+      "volume" : 3096000,
+      "marketCap" : null,
+      "code" : "4183",
+      "cName" : "三井化学"
+    }, {
+      "volume" : 4004600,
+      "marketCap" : null,
+      "code" : "4188",
+      "cName" : "三菱ケミＨＤ"
+    }, {
+      "volume" : 8038000,
+      "marketCap" : null,
+      "code" : "4208",
+      "cName" : "宇部興"
+    }, {
+      "volume" : 418000,
+      "marketCap" : null,
+      "code" : "4272",
+      "cName" : "日化薬"
+    }, {
+      "volume" : 1280900,
+      "marketCap" : null,
+      "code" : "4452",
+      "cName" : "花王"
+    }, {
+      "volume" : 964700,
+      "marketCap" : null,
+      "code" : "4901",
+      "cName" : "富士フイルム"
+    }, {
+      "volume" : 689500,
+      "marketCap" : null,
+      "code" : "4911",
+      "cName" : "資生堂"
+    }, {
+      "volume" : 516300,
+      "marketCap" : null,
+      "code" : "6988",
+      "cName" : "日東電"
+    } ]
+  }, {
+    "name" : "商社",
+    "children" : [ {
+      "volume" : 6423700,
+      "marketCap" : null,
+      "code" : "2768",
+      "cName" : "双日"
+    }, {
+      "volume" : 2792700,
+      "marketCap" : null,
+      "code" : "8001",
+      "cName" : "伊藤忠"
+    }, {
+      "volume" : 5460500,
+      "marketCap" : null,
+      "code" : "8002",
+      "cName" : "丸紅"
+    }, {
+      "volume" : 347100,
+      "marketCap" : null,
+      "code" : "8015",
+      "cName" : "豊田通商"
+    }, {
+      "volume" : 3287000,
+      "marketCap" : null,
+      "code" : "8031",
+      "cName" : "三井物"
+    }, {
+      "volume" : 2264200,
+      "marketCap" : null,
+      "code" : "8053",
+      "cName" : "住友商"
+    }, {
+      "volume" : 2394600,
+      "marketCap" : null,
+      "code" : "8058",
+      "cName" : "三菱商"
+    } ]
+  }, {
+    "name" : "鉄道・バス",
+    "children" : [ {
+      "volume" : 1155000,
+      "marketCap" : null,
+      "code" : "9001",
+      "cName" : "東武"
+    }, {
+      "volume" : 1336000,
+      "marketCap" : null,
+      "code" : "9005",
+      "cName" : "東急"
+    }, {
+      "volume" : 472000,
+      "marketCap" : null,
+      "code" : "9007",
+      "cName" : "小田急"
+    }, {
+      "volume" : 373000,
+      "marketCap" : null,
+      "code" : "9008",
+      "cName" : "京王"
+    }, {
+      "volume" : 477000,
+      "marketCap" : null,
+      "code" : "9009",
+      "cName" : "京成"
+    }, {
+      "volume" : 478000,
+      "marketCap" : null,
+      "code" : "9020",
+      "cName" : "ＪＲ東日本"
+    }, {
+      "volume" : 300700,
+      "marketCap" : null,
+      "code" : "9021",
+      "cName" : "ＪＲ西日本"
+    }, {
+      "volume" : 196500,
+      "marketCap" : null,
+      "code" : "9022",
+      "cName" : "ＪＲ東海"
+    } ]
+  }, {
+    "name" : "自動車",
+    "children" : [ {
+      "volume" : 8715200,
+      "marketCap" : null,
+      "code" : "7201",
+      "cName" : "日産自"
+    }, {
+      "volume" : 1890900,
+      "marketCap" : null,
+      "code" : "7202",
+      "cName" : "いすゞ"
+    }, {
+      "volume" : 7074600,
+      "marketCap" : null,
+      "code" : "7203",
+      "cName" : "トヨタ"
+    }, {
+      "volume" : 675700,
+      "marketCap" : null,
+      "code" : "7205",
+      "cName" : "日野自"
+    }, {
+      "volume" : 3995000,
+      "marketCap" : null,
+      "code" : "7211",
+      "cName" : "三菱自"
+    }, {
+      "volume" : 7598300,
+      "marketCap" : null,
+      "code" : "7261",
+      "cName" : "マツダ"
+    }, {
+      "volume" : 3294000,
+      "marketCap" : null,
+      "code" : "7267",
+      "cName" : "ホンダ"
+    }, {
+      "volume" : 1364700,
+      "marketCap" : null,
+      "code" : "7269",
+      "cName" : "スズキ"
+    }, {
+      "volume" : 2484100,
+      "marketCap" : null,
+      "code" : "7270",
+      "cName" : "富士重"
+    } ]
+  }, {
+    "name" : "通信",
+    "children" : [ {
+      "volume" : 486400,
+      "marketCap" : null,
+      "code" : "9412",
+      "cName" : "スカパーＪ"
+    }, {
+      "volume" : 1631300,
+      "marketCap" : null,
+      "code" : "9432",
+      "cName" : "ＮＴＴ"
+    }, {
+      "volume" : 2938200,
+      "marketCap" : null,
+      "code" : "9433",
+      "cName" : "ＫＤＤＩ"
+    }, {
+      "volume" : 2557700,
+      "marketCap" : null,
+      "code" : "9437",
+      "cName" : "ＮＴＴドコモ"
+    }, {
+      "volume" : 306500,
+      "marketCap" : null,
+      "code" : "9613",
+      "cName" : "ＮＴＴデータ"
+    }, {
+      "volume" : 2666200,
+      "marketCap" : null,
+      "code" : "9984",
+      "cName" : "ソフトバンク"
+    } ]
+  }, {
+    "name" : "小売業",
+    "children" : [ {
+      "volume" : 716600,
+      "marketCap" : null,
+      "code" : "3086",
+      "cName" : "Ｊフロント"
+    }, {
+      "volume" : 1731400,
+      "marketCap" : null,
+      "code" : "3099",
+      "cName" : "三越伊勢丹"
+    }, {
+      "volume" : 1063000,
+      "marketCap" : null,
+      "code" : "3382",
+      "cName" : "セブン＆アイ"
+    }, {
+      "volume" : 1460000,
+      "marketCap" : null,
+      "code" : "8233",
+      "cName" : "高島屋"
+    }, {
+      "volume" : 449500,
+      "marketCap" : null,
+      "code" : "8252",
+      "cName" : "丸井Ｇ"
+    }, {
+      "volume" : 1540600,
+      "marketCap" : null,
+      "code" : "8267",
+      "cName" : "イオン"
+    }, {
+      "volume" : 498200,
+      "marketCap" : null,
+      "code" : "8270",
+      "cName" : "ユニーＧＨＤ"
+    }, {
+      "volume" : 1278100,
+      "marketCap" : null,
+      "code" : "9983",
+      "cName" : "ファストリ"
+    } ]
+  }, {
+    "name" : "電力",
+    "children" : [ {
+      "volume" : 4574800,
+      "marketCap" : null,
+      "code" : "9501",
+      "cName" : "東電ＨＤ"
+    }, {
+      "volume" : 931700,
+      "marketCap" : null,
+      "code" : "9502",
+      "cName" : "中部電"
+    }, {
+      "volume" : 1147500,
+      "marketCap" : null,
+      "code" : "9503",
+      "cName" : "関西電"
+    } ]
+  }, {
+    "name" : "サービス",
+    "children" : [ {
+      "volume" : 2085800,
+      "marketCap" : null,
+      "code" : "2432",
+      "cName" : "ディーエヌエ"
+    }, {
+      "volume" : 759900,
+      "marketCap" : null,
+      "code" : "4324",
+      "cName" : "電通"
+    }, {
+      "volume" : 6182000,
+      "marketCap" : null,
+      "code" : "4689",
+      "cName" : "ヤフー"
+    }, {
+      "volume" : 646300,
+      "marketCap" : null,
+      "code" : "4704",
+      "cName" : "トレンド"
+    }, {
+      "volume" : 610100,
+      "marketCap" : null,
+      "code" : "9602",
+      "cName" : "東宝"
+    }, {
+      "volume" : 259000,
+      "marketCap" : null,
+      "code" : "9681",
+      "cName" : "東京ドーム"
+    }, {
+      "volume" : 359700,
+      "marketCap" : null,
+      "code" : "9735",
+      "cName" : "セコム"
+    }, {
+      "volume" : 968700,
+      "marketCap" : null,
+      "code" : "9766",
+      "cName" : "コナミＨＤ"
+    } ]
+  }, {
+    "name" : "医薬品",
+    "children" : [ {
+      "volume" : 410200,
+      "marketCap" : null,
+      "code" : "4151",
+      "cName" : "協和キリン"
+    }, {
+      "volume" : 1198100,
+      "marketCap" : null,
+      "code" : "4502",
+      "cName" : "武田"
+    }, {
+      "volume" : 3790700,
+      "marketCap" : null,
+      "code" : "4503",
+      "cName" : "アステラス"
+    }, {
+      "volume" : 776600,
+      "marketCap" : null,
+      "code" : "4506",
+      "cName" : "大日本住友"
+    }, {
+      "volume" : 717900,
+      "marketCap" : null,
+      "code" : "4507",
+      "cName" : "塩野義"
+    }, {
+      "volume" : 435900,
+      "marketCap" : null,
+      "code" : "4519",
+      "cName" : "中外薬"
+    }, {
+      "volume" : 597800,
+      "marketCap" : null,
+      "code" : "4523",
+      "cName" : "エーザイ"
+    }, {
+      "volume" : 1496700,
+      "marketCap" : null,
+      "code" : "4568",
+      "cName" : "第一三共"
+    } ]
+  }, {
+    "name" : "石油",
+    "children" : [ {
+      "volume" : 1047000,
+      "marketCap" : null,
+      "code" : "5002",
+      "cName" : "昭和シェル"
+    }, {
+      "volume" : 4684100,
+      "marketCap" : null,
+      "code" : "5020",
+      "cName" : "ＪＸ"
+    } ]
+  }, {
+    "name" : "倉庫",
+    "children" : [ {
+      "volume" : 208000,
+      "marketCap" : null,
+      "code" : "9301",
+      "cName" : "三菱倉"
+    } ]
+  }, {
+    "name" : "造船",
+    "children" : [ {
+      "volume" : 5190000,
+      "marketCap" : null,
+      "code" : "7003",
+      "cName" : "三井造"
+    }, {
+      "volume" : 15055000,
+      "marketCap" : null,
+      "code" : "7012",
+      "cName" : "川重"
+    } ]
+  }, {
+    "name" : "空運",
+    "children" : [ {
+      "volume" : 5139000,
+      "marketCap" : null,
+      "code" : "9202",
+      "cName" : "ＡＮＡＨＤ"
+    } ]
+  }, {
+    "name" : "繊維",
+    "children" : [ {
+      "volume" : 1767000,
+      "marketCap" : null,
+      "code" : "3101",
+      "cName" : "東洋紡"
+    }, {
+      "volume" : 10342000,
+      "marketCap" : null,
+      "code" : "3103",
+      "cName" : "ユニチカ"
+    }, {
+      "volume" : 4088000,
+      "marketCap" : null,
+      "code" : "3401",
+      "cName" : "帝人"
+    }, {
+      "volume" : 3558000,
+      "marketCap" : null,
+      "code" : "3402",
+      "cName" : "東レ"
+    } ]
+  }, {
+    "name" : "建設",
+    "children" : [ {
+      "volume" : 230000,
+      "marketCap" : null,
+      "code" : "1721",
+      "cName" : "コムシスＨＤ"
+    }, {
+      "volume" : 3915000,
+      "marketCap" : null,
+      "code" : "1801",
+      "cName" : "大成建"
+    }, {
+      "volume" : 2220300,
+      "marketCap" : null,
+      "code" : "1802",
+      "cName" : "大林組"
+    }, {
+      "volume" : 1404000,
+      "marketCap" : null,
+      "code" : "1803",
+      "cName" : "清水建"
+    }, {
+      "volume" : 752200,
+      "marketCap" : null,
+      "code" : "1808",
+      "cName" : "長谷工"
+    }, {
+      "volume" : 2322000,
+      "marketCap" : null,
+      "code" : "1812",
+      "cName" : "鹿島"
+    }, {
+      "volume" : 1599500,
+      "marketCap" : null,
+      "code" : "1925",
+      "cName" : "ハウス"
+    }, {
+      "volume" : 1666400,
+      "marketCap" : null,
+      "code" : "1928",
+      "cName" : "積ハウス"
+    }, {
+      "volume" : 707300,
+      "marketCap" : null,
+      "code" : "1963",
+      "cName" : "日揮"
+    } ]
+  }, {
+    "name" : "非鉄・金属",
+    "children" : [ {
+      "volume" : 3268500,
+      "marketCap" : null,
+      "code" : "3436",
+      "cName" : "ＳＵＭＣＯ"
+    }, {
+      "volume" : 7376100,
+      "marketCap" : null,
+      "code" : "5703",
+      "cName" : "日軽金ＨＤ"
+    }, {
+      "volume" : 4335000,
+      "marketCap" : null,
+      "code" : "5706",
+      "cName" : "三井金"
+    }, {
+      "volume" : 1230000,
+      "marketCap" : null,
+      "code" : "5707",
+      "cName" : "東邦鉛"
+    }, {
+      "volume" : 4289000,
+      "marketCap" : null,
+      "code" : "5711",
+      "cName" : "三菱マ"
+    }, {
+      "volume" : 3698000,
+      "marketCap" : null,
+      "code" : "5713",
+      "cName" : "住友鉱"
+    }, {
+      "volume" : 1008000,
+      "marketCap" : null,
+      "code" : "5714",
+      "cName" : "ＤＯＷＡ"
+    }, {
+      "volume" : 1155000,
+      "marketCap" : null,
+      "code" : "5715",
+      "cName" : "古河機金"
+    }, {
+      "volume" : 3200000,
+      "marketCap" : null,
+      "code" : "5801",
+      "cName" : "古河電"
+    }, {
+      "volume" : 1507500,
+      "marketCap" : null,
+      "code" : "5802",
+      "cName" : "住友電"
+    }, {
+      "volume" : 1146000,
+      "marketCap" : null,
+      "code" : "5803",
+      "cName" : "フジクラ"
+    }, {
+      "volume" : 223500,
+      "marketCap" : null,
+      "code" : "5901",
+      "cName" : "洋缶ＨＤ"
+    } ]
+  }, {
+    "name" : "鉱業",
+    "children" : [ {
+      "volume" : 1858200,
+      "marketCap" : null,
+      "code" : "1605",
+      "cName" : "国際石開帝石"
+    } ]
+  }, {
+    "name" : "ゴム",
+    "children" : [ {
+      "volume" : 339700,
+      "marketCap" : null,
+      "code" : "5101",
+      "cName" : "浜ゴム"
+    }, {
+      "volume" : 2041300,
+      "marketCap" : null,
+      "code" : "5108",
+      "cName" : "ブリヂストン"
+    } ]
+  }, {
+    "name" : "パルプ・紙",
+    "children" : [ {
+      "volume" : 1605000,
+      "marketCap" : null,
+      "code" : "3861",
+      "cName" : "王子ＨＤ"
+    }, {
+      "volume" : 243000,
+      "marketCap" : null,
+      "code" : "3863",
+      "cName" : "日本紙"
+    }, {
+      "volume" : 292700,
+      "marketCap" : null,
+      "code" : "3865",
+      "cName" : "北越紀州紙"
+    } ]
+  }, {
+    "name" : "電気機器",
+    "children" : [ {
+      "volume" : 273400,
+      "marketCap" : null,
+      "code" : "3105",
+      "cName" : "日清紡ＨＤ"
+    }, {
+      "volume" : 4042000,
+      "marketCap" : null,
+      "code" : "6479",
+      "cName" : "ミネベア"
+    }, {
+      "volume" : 14136000,
+      "marketCap" : null,
+      "code" : "6501",
+      "cName" : "日立"
+    }, {
+      "volume" : 21349000,
+      "marketCap" : null,
+      "code" : "6502",
+      "cName" : "東芝"
+    }, {
+      "volume" : 3295000,
+      "marketCap" : null,
+      "code" : "6503",
+      "cName" : "三菱電"
+    }, {
+      "volume" : 1077000,
+      "marketCap" : null,
+      "code" : "6504",
+      "cName" : "富士電機"
+    }, {
+      "volume" : 1134200,
+      "marketCap" : null,
+      "code" : "6506",
+      "cName" : "安川電"
+    }, {
+      "volume" : 419000,
+      "marketCap" : null,
+      "code" : "6508",
+      "cName" : "明電舎"
+    }, {
+      "volume" : 740000,
+      "marketCap" : null,
+      "code" : "6674",
+      "cName" : "ＧＳユアサ"
+    }, {
+      "volume" : 10349000,
+      "marketCap" : null,
+      "code" : "6701",
+      "cName" : "ＮＥＣ"
+    }, {
+      "volume" : 4341000,
+      "marketCap" : null,
+      "code" : "6702",
+      "cName" : "富士通"
+    }, {
+      "volume" : 1884000,
+      "marketCap" : null,
+      "code" : "6703",
+      "cName" : "ＯＫＩ"
+    }, {
+      "volume" : 5285100,
+      "marketCap" : null,
+      "code" : "6752",
+      "cName" : "パナソニック"
+    }, {
+      "volume" : 2955000,
+      "marketCap" : null,
+      "code" : "6753",
+      "cName" : "シャープ"
+    }, {
+      "volume" : 5305300,
+      "marketCap" : null,
+      "code" : "6758",
+      "cName" : "ソニー"
+    }, {
+      "volume" : 539500,
+      "marketCap" : null,
+      "code" : "6762",
+      "cName" : "ＴＤＫ"
+    }, {
+      "volume" : 737400,
+      "marketCap" : null,
+      "code" : "6767",
+      "cName" : "ミツミ"
+    }, {
+      "volume" : 679600,
+      "marketCap" : null,
+      "code" : "6841",
+      "cName" : "横河電"
+    }, {
+      "volume" : 835700,
+      "marketCap" : null,
+      "code" : "6857",
+      "cName" : "アドテスト"
+    }, {
+      "volume" : 1178100,
+      "marketCap" : null,
+      "code" : "6902",
+      "cName" : "デンソー"
+    }, {
+      "volume" : 1316000,
+      "marketCap" : null,
+      "code" : "6952",
+      "cName" : "カシオ"
+    }, {
+      "volume" : 584500,
+      "marketCap" : null,
+      "code" : "6954",
+      "cName" : "ファナック"
+    }, {
+      "volume" : 807300,
+      "marketCap" : null,
+      "code" : "6971",
+      "cName" : "京セラ"
+    }, {
+      "volume" : 1442300,
+      "marketCap" : null,
+      "code" : "6976",
+      "cName" : "太陽誘電"
+    }, {
+      "volume" : 1956000,
+      "marketCap" : null,
+      "code" : "7735",
+      "cName" : "スクリン"
+    }, {
+      "volume" : 2934300,
+      "marketCap" : null,
+      "code" : "7751",
+      "cName" : "キヤノン"
+    }, {
+      "volume" : 1829300,
+      "marketCap" : null,
+      "code" : "7752",
+      "cName" : "リコー"
+    }, {
+      "volume" : 585700,
+      "marketCap" : null,
+      "code" : "8035",
+      "cName" : "東エレク"
+    }, {
+      "volume" : 2919800,
+      "marketCap" : null,
+      "code" : "6770",
+      "cName" : "アルプス"
+    }, {
+      "volume" : 3795800,
+      "marketCap" : null,
+      "code" : "6773",
+      "cName" : "パイオニア"
+    } ]
+  }, {
+    "name" : "不動産",
+    "children" : [ {
+      "volume" : 1360700,
+      "marketCap" : null,
+      "code" : "3289",
+      "cName" : "東急不ＨＤ"
+    }, {
+      "volume" : 2419000,
+      "marketCap" : null,
+      "code" : "8801",
+      "cName" : "三井不"
+    }, {
+      "volume" : 2663000,
+      "marketCap" : null,
+      "code" : "8802",
+      "cName" : "菱地所"
+    }, {
+      "volume" : 836600,
+      "marketCap" : null,
+      "code" : "8804",
+      "cName" : "東建物"
+    }, {
+      "volume" : 1870000,
+      "marketCap" : null,
+      "code" : "8830",
+      "cName" : "住友不"
+    } ]
+  }, {
+    "name" : "食品",
+    "children" : [ {
+      "volume" : 346900,
+      "marketCap" : null,
+      "code" : "2002",
+      "cName" : "日清粉Ｇ"
+    }, {
+      "volume" : 323200,
+      "marketCap" : null,
+      "code" : "2269",
+      "cName" : "明治ＨＤ"
+    }, {
+      "volume" : 302000,
+      "marketCap" : null,
+      "code" : "2282",
+      "cName" : "日ハム"
+    }, {
+      "volume" : 260600,
+      "marketCap" : null,
+      "code" : "2501",
+      "cName" : "サッポロＨＤ"
+    }, {
+      "volume" : 619700,
+      "marketCap" : null,
+      "code" : "2502",
+      "cName" : "アサヒ"
+    }, {
+      "volume" : 1594400,
+      "marketCap" : null,
+      "code" : "2503",
+      "cName" : "キリンＨＤ"
+    }, {
+      "volume" : 287500,
+      "marketCap" : null,
+      "code" : "2531",
+      "cName" : "宝ＨＬＤ"
+    }, {
+      "volume" : 311000,
+      "marketCap" : null,
+      "code" : "2801",
+      "cName" : "キッコマン"
+    }, {
+      "volume" : 770200,
+      "marketCap" : null,
+      "code" : "2802",
+      "cName" : "味の素"
+    }, {
+      "volume" : 695000,
+      "marketCap" : null,
+      "code" : "2871",
+      "cName" : "ニチレイ"
+    }, {
+      "volume" : 2075700,
+      "marketCap" : null,
+      "code" : "2914",
+      "cName" : "ＪＴ"
+    } ]
+  }, {
+    "name" : "証券",
+    "children" : [ {
+      "volume" : 4012000,
+      "marketCap" : null,
+      "code" : "8601",
+      "cName" : "大和"
+    }, {
+      "volume" : 26437600,
+      "marketCap" : null,
+      "code" : "8604",
+      "cName" : "野村"
+    }, {
+      "volume" : 446200,
+      "marketCap" : null,
+      "code" : "8628",
+      "cName" : "松井"
+    } ]
+  }, {
+    "name" : "機械",
+    "children" : [ {
+      "volume" : 754000,
+      "marketCap" : null,
+      "code" : "5631",
+      "cName" : "日製鋼"
+    }, {
+      "volume" : 750000,
+      "marketCap" : null,
+      "code" : "6103",
+      "cName" : "オークマ"
+    }, {
+      "volume" : 1292700,
+      "marketCap" : null,
+      "code" : "6113",
+      "cName" : "アマダＨＤ"
+    }, {
+      "volume" : 3570200,
+      "marketCap" : null,
+      "code" : "6301",
+      "cName" : "コマツ"
+    }, {
+      "volume" : 1762000,
+      "marketCap" : null,
+      "code" : "6302",
+      "cName" : "住友重"
+    }, {
+      "volume" : 506400,
+      "marketCap" : null,
+      "code" : "6305",
+      "cName" : "日立建機"
+    }, {
+      "volume" : 2370200,
+      "marketCap" : null,
+      "code" : "6326",
+      "cName" : "クボタ"
+    }, {
+      "volume" : 1623000,
+      "marketCap" : null,
+      "code" : "6361",
+      "cName" : "荏原"
+    }, {
+      "volume" : 679000,
+      "marketCap" : null,
+      "code" : "6366",
+      "cName" : "千代建"
+    }, {
+      "volume" : 746200,
+      "marketCap" : null,
+      "code" : "6367",
+      "cName" : "ダイキン"
+    }, {
+      "volume" : 3726800,
+      "marketCap" : null,
+      "code" : "6471",
+      "cName" : "日精工"
+    }, {
+      "volume" : 4990000,
+      "marketCap" : null,
+      "code" : "6472",
+      "cName" : "ＮＴＮ"
+    }, {
+      "volume" : 710600,
+      "marketCap" : null,
+      "code" : "6473",
+      "cName" : "ジェイテクト"
+    }, {
+      "volume" : 923600,
+      "marketCap" : null,
+      "code" : "7004",
+      "cName" : "日立造"
+    }, {
+      "volume" : 10311000,
+      "marketCap" : null,
+      "code" : "7011",
+      "cName" : "三菱重"
+    }, {
+      "volume" : 15913000,
+      "marketCap" : null,
+      "code" : "7013",
+      "cName" : "ＩＨＩ"
+    } ]
+  }, {
+    "name" : "水産",
+    "children" : [ {
+      "volume" : 1341000,
+      "marketCap" : null,
+      "code" : "1332",
+      "cName" : "日水"
+    }, {
+      "volume" : 110400,
+      "marketCap" : null,
+      "code" : "1333",
+      "cName" : "マルハニチロ"
+    } ]
+  }, {
+    "name" : "窯業",
+    "children" : [ {
+      "volume" : 6599000,
+      "marketCap" : null,
+      "code" : "5201",
+      "cName" : "旭硝子"
+    }, {
+      "volume" : 23893000,
+      "marketCap" : null,
+      "code" : "5202",
+      "cName" : "板硝子"
+    }, {
+      "volume" : 1956000,
+      "marketCap" : null,
+      "code" : "5214",
+      "cName" : "日電硝"
+    }, {
+      "volume" : 2137000,
+      "marketCap" : null,
+      "code" : "5232",
+      "cName" : "住友大阪"
+    }, {
+      "volume" : 7511000,
+      "marketCap" : null,
+      "code" : "5233",
+      "cName" : "太平洋セメ"
+    }, {
+      "volume" : 509000,
+      "marketCap" : null,
+      "code" : "5301",
+      "cName" : "東海カ"
+    }, {
+      "volume" : 313700,
+      "marketCap" : null,
+      "code" : "5332",
+      "cName" : "ＴＯＴＯ"
+    }, {
+      "volume" : 683800,
+      "marketCap" : null,
+      "code" : "5333",
+      "cName" : "ガイシ"
+    } ]
+  }, {
+    "name" : "ガス",
+    "children" : [ {
+      "volume" : 3588000,
+      "marketCap" : null,
+      "code" : "9531",
+      "cName" : "東ガス"
+    }, {
+      "volume" : 2556000,
+      "marketCap" : null,
+      "code" : "9532",
+      "cName" : "大ガス"
+    } ]
+  }, {
+    "name" : "鉄鋼",
+    "children" : [ {
+      "volume" : 1917400,
+      "marketCap" : null,
+      "code" : "5401",
+      "cName" : "新日鉄住金"
+    }, {
+      "volume" : 34367000,
+      "marketCap" : null,
+      "code" : "5406",
+      "cName" : "神戸鋼"
+    }, {
+      "volume" : 2748800,
+      "marketCap" : null,
+      "code" : "5411",
+      "cName" : "ＪＦＥ"
+    }, {
+      "volume" : 378900,
+      "marketCap" : null,
+      "code" : "5413",
+      "cName" : "日新製鋼"
+    }, {
+      "volume" : 707000,
+      "marketCap" : null,
+      "code" : "5541",
+      "cName" : "大平金"
+    } ]
+  }, {
+    "name" : "精密機器",
+    "children" : [ {
+      "volume" : 913500,
+      "marketCap" : null,
+      "code" : "4543",
+      "cName" : "テルモ"
+    }, {
+      "volume" : 1640600,
+      "marketCap" : null,
+      "code" : "4902",
+      "cName" : "コニカミノル"
+    }, {
+      "volume" : 1867000,
+      "marketCap" : null,
+      "code" : "7731",
+      "cName" : "ニコン"
+    }, {
+      "volume" : 585700,
+      "marketCap" : null,
+      "code" : "7733",
+      "cName" : "オリンパス"
+    }, {
+      "volume" : 1837200,
+      "marketCap" : null,
+      "code" : "7762",
+      "cName" : "シチズンＨＤ"
+    } ]
+  }, {
+    "name" : "銀行",
+    "children" : [ {
+      "volume" : 911700,
+      "marketCap" : null,
+      "code" : "7186",
+      "cName" : "コンコルディ"
+    }, {
+      "volume" : 13567000,
+      "marketCap" : null,
+      "code" : "8303",
+      "cName" : "新生銀"
+    }, {
+      "volume" : 6758000,
+      "marketCap" : null,
+      "code" : "8304",
+      "cName" : "あおぞら銀"
+    }, {
+      "volume" : 61782300,
+      "marketCap" : null,
+      "code" : "8306",
+      "cName" : "三菱ＵＦＪ"
+    }, {
+      "volume" : 6659400,
+      "marketCap" : null,
+      "code" : "8308",
+      "cName" : "りそなＨＤ"
+    }, {
+      "volume" : 12083000,
+      "marketCap" : null,
+      "code" : "8309",
+      "cName" : "三井住友トラ"
+    }, {
+      "volume" : 6815600,
+      "marketCap" : null,
+      "code" : "8316",
+      "cName" : "三井住友ＦＧ"
+    }, {
+      "volume" : 1842000,
+      "marketCap" : null,
+      "code" : "8331",
+      "cName" : "千葉銀"
+    }, {
+      "volume" : 2735000,
+      "marketCap" : null,
+      "code" : "8354",
+      "cName" : "ふくおかＦＧ"
+    }, {
+      "volume" : 1056000,
+      "marketCap" : null,
+      "code" : "8355",
+      "cName" : "静岡銀"
+    }, {
+      "volume" : 120576500,
+      "marketCap" : null,
+      "code" : "8411",
+      "cName" : "みずほＦＧ"
+    } ]
+  }, {
+    "name" : "保険",
+    "children" : [ {
+      "volume" : 622200,
+      "marketCap" : null,
+      "code" : "8630",
+      "cName" : "損保ＪＰＮＫ"
+    }, {
+      "volume" : 1337500,
+      "marketCap" : null,
+      "code" : "8725",
+      "cName" : "ＭＳ＆ＡＤ"
+    }, {
+      "volume" : 2068700,
+      "marketCap" : null,
+      "code" : "8729",
+      "cName" : "ソニーＦＨ"
+    }, {
+      "volume" : 6735000,
+      "marketCap" : null,
+      "code" : "8750",
+      "cName" : "第一生命"
+    }, {
+      "volume" : 1778800,
+      "marketCap" : null,
+      "code" : "8766",
+      "cName" : "東京海上"
+    }, {
+      "volume" : 3045100,
+      "marketCap" : null,
+      "code" : "8795",
+      "cName" : "Ｔ＆Ｄ"
+    } ]
+  }, {
+    "name" : "その他金融",
+    "children" : [ {
+      "volume" : 401100,
+      "marketCap" : null,
+      "code" : "8253",
+      "cName" : "クレセゾン"
+    } ]
+  } ]
+}
